@@ -1,0 +1,10 @@
+D:\Experiments\Expert01\Expert01\bin\Debug\Expert01.exe.config
+D:\Experiments\Expert01\Expert01\bin\Debug\Expert01.exe
+D:\Experiments\Expert01\Expert01\bin\Debug\Expert01.pdb
+D:\Experiments\Expert01\Expert01\obj\Debug\Expert01.csprojResolveAssemblyReference.cache
+D:\Experiments\Expert01\Expert01\obj\Debug\Expert01.Form1.resources
+D:\Experiments\Expert01\Expert01\obj\Debug\Expert01.Properties.Resources.resources
+D:\Experiments\Expert01\Expert01\obj\Debug\Expert01.csproj.GenerateResource.Cache
+D:\Experiments\Expert01\Expert01\obj\Debug\Expert01.csproj.CoreCompileInputs.cache
+D:\Experiments\Expert01\Expert01\obj\Debug\Expert01.exe
+D:\Experiments\Expert01\Expert01\obj\Debug\Expert01.pdb
